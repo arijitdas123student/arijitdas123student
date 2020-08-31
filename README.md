@@ -11,7 +11,6 @@
 - 📫 How to reach me: **arijitdas18022006@gmail.com**
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact: **he's a goood cricketer & wonderful guitarist**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdas123student&show_icons=true%22%20alt=%22arijitdas123student" /></p>
 
 <p align="center">
