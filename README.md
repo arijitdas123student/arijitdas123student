@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Arijit Das</h1>
 <h3 align="center">I am a 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student%22"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
 
 - 🔭 I’m currently working on **spectrium**
 - 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
@@ -10,7 +10,7 @@
 - 💬 Ask me about **Arduino , Raspberry Pi or TinyML** 
 - 📫 How to reach me: **arijitdas18022006@gmail.com**
 - 😄 Pronouns: *he/him*
-- ⚡ Fun fact: **he's a goood cricketer & wonderful guitarist**
+- ⚡ Fun fact: **he's a good cricketer & wonderful guitarist**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitdas123student&show_icons=true%22%20alt=%22arijitdas123student" /></p>
 
 <p align="center">
