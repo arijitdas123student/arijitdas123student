@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Arijit Das</h1>
 <h3 align="center">I am a 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student%22%20alt=%22arijitdas123student"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student%22"/> </p>
 
 - 🔭 I’m currently working on **spectrium**
 - 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
