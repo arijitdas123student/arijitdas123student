@@ -19,4 +19,7 @@
 
 <a href="https://twitter.com/Arijit_Student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arijit_Student" height="30" width="30" /></a>
 <a href="https://www.hackster.io/arijit_das_student" target="blank"><img align="center" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1503551685/una2tszjsh3dicb1vdeh.png" alt="arijit_das_student" height="30" width="30" /></a>
+<a href="https://hackaday.io/arijit.student" target="blank"><img align="center" src="https://connectpasadena.com/assets/images/logos/wrencher-new.png" alt="arijit.student" height="30" width="30" /></a>
+<a href="https://www.electromaker.io/profile/arijit-das" target="blank"><img align="center" src="https://www.electromaker.io/images/icons/logo-square.png" alt="arijit-das" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCqJhvi5xE2sRV8zCcy1PhLw" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="arijit-das" height="30" width="30" /></a>
 </p>
