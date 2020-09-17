@@ -1,7 +1,8 @@
 
 <h1 align="center">Hello, I'm Arijit Das</h1>
 <h3 align="center">A 14 year old student, spends his time making project prototypes based on IoT, Machine Learning and Deep Learning at the edge</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitdas123student" alt="arijitdas123student" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darijitdas123student&longCache=true"></p>
 
 - 🔭 I’m currently working on **www.spectrium.ml**
 - 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
