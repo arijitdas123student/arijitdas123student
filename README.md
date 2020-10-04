@@ -28,7 +28,8 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-<p align="left">
+
+<p align="left"><br>
 💬 Social Thingies 💬
 <div float: right:
 <a href="https://twitter.com/Arijit_Student" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arijit_Student" height="30" width="30" /></a>
