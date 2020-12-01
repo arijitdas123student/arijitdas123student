@@ -5,10 +5,8 @@
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darijitdas123student&longCache=true"></p>
 
 - 🔭 I’m currently working at **www.edgeimpulse.com**
-- 🌱 I’m currently learning **TinyML , Machine learning & Deep learning algorithms for edge devices**
 - 👯 I’m looking to collaborate on **making projects for social good**
-- 🤔 I’m looking for help with **TinyML** projects 
-- 💬 Ask me about **Arduino , Raspberry Pi or IoT** 
+- 💬 Ask me about **Arduino , Raspberry Pi , AIoT and TinyML** 
 - 📫 How to reach me: **arijitdas18022006@gmail.com**
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact: **he's a good cricketer & wonderful guitarist**
