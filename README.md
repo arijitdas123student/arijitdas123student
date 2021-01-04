@@ -6,4 +6,13 @@ I stongly believe on the fact that "Anyone can be anything".
 
 Wanna ask for some help involving ML on Edge Devices / Collaborate on some cool Open-Source projects ?
 
-Don't forget to mail me at arijitdas18022006@gmail.com , always happy to help :) 
+Don't forget to drop me an email , always happy to help :) 
+
+**Contact**
+
+Mail : arijitdas18022006@gmail.com
+
+Twitter : https://twitter.com/Arijit_Student
+
+
+
